@@ -119,6 +119,7 @@ reactjs18-3d-portfolio/
 
 </details>
 
+
 ## ✨ Technologies Used
 
 <details><summary><b>3D Portfolio</b> is built using the following technologies:</summary>
